@@ -1,0 +1,15 @@
+C:\Users\amogh\source\repos\GitClonedApp\bin\Debug\net8.0\GitCloneApp.exe
+C:\Users\amogh\source\repos\GitClonedApp\bin\Debug\net8.0\GitCloneApp.deps.json
+C:\Users\amogh\source\repos\GitClonedApp\bin\Debug\net8.0\GitCloneApp.runtimeconfig.json
+C:\Users\amogh\source\repos\GitClonedApp\bin\Debug\net8.0\GitCloneApp.dll
+C:\Users\amogh\source\repos\GitClonedApp\bin\Debug\net8.0\GitCloneApp.pdb
+C:\Users\amogh\source\repos\GitClonedApp\obj\Debug\net8.0\GitCloneApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amogh\source\repos\GitClonedApp\obj\Debug\net8.0\GitCloneApp.AssemblyInfoInputs.cache
+C:\Users\amogh\source\repos\GitClonedApp\obj\Debug\net8.0\GitCloneApp.AssemblyInfo.cs
+C:\Users\amogh\source\repos\GitClonedApp\obj\Debug\net8.0\GitCloneApp.csproj.CoreCompileInputs.cache
+C:\Users\amogh\source\repos\GitClonedApp\obj\Debug\net8.0\GitCloneApp.sourcelink.json
+C:\Users\amogh\source\repos\GitClonedApp\obj\Debug\net8.0\GitCloneApp.dll
+C:\Users\amogh\source\repos\GitClonedApp\obj\Debug\net8.0\refint\GitCloneApp.dll
+C:\Users\amogh\source\repos\GitClonedApp\obj\Debug\net8.0\GitCloneApp.pdb
+C:\Users\amogh\source\repos\GitClonedApp\obj\Debug\net8.0\GitCloneApp.genruntimeconfig.cache
+C:\Users\amogh\source\repos\GitClonedApp\obj\Debug\net8.0\ref\GitCloneApp.dll

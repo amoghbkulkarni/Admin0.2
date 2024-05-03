@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amogh\\source\\repos\\GitCloneApp\\GitCloneApp.csproj",
+      "projectUniqueName": "C:\\Users\\amogh\\source\\repos\\GitClonedApp\\GitCloneApp.csproj",
       "projectName": "GitCloneApp",
-      "projectPath": "C:\\Users\\amogh\\source\\repos\\GitCloneApp\\GitCloneApp.csproj",
+      "projectPath": "C:\\Users\\amogh\\source\\repos\\GitClonedApp\\GitCloneApp.csproj",
       "packagesPath": "C:\\Users\\amogh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amogh\\source\\repos\\GitCloneApp\\obj\\",
+      "outputPath": "C:\\Users\\amogh\\source\\repos\\GitClonedApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amogh\\AppData\\Roaming\\NuGet\\NuGet.Config",

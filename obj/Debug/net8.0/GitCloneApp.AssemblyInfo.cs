@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitCloneApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25bf42bce6d70a01cca30eed4bb7191bab20f301")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitCloneApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitCloneApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
