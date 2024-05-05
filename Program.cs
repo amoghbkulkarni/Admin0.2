@@ -6,15 +6,31 @@ public class Program
     public static void Main(string[] args)
     {
         Console.WriteLine("Hello Git!");
-        IString implement = new ImplementInterafce();
-        Mains mains = new Mains(implement);
-        mains.callStringManipulation("Applied system");
+      //  IString implement = new ImplementInterafce();
+      //  Mains mains = new Mains(implement);
+      //  mains.callStringManipulation("Applied system");
         Console.ReadLine();
-
+        manipulateString("Good Brothers"); 
 
     }
-}
+    private static void manipulateString(string val)
+    {
+        //Input = Good Brothers
+        //OutPut = Bood rothersG
+        char[] splitString = val.ToCharArray();
+        StringBuilder sb = new StringBuilder();
+        sb.Append(splitString[5]);
+        for (int i = 0; i < splitString.Length; i++)
+        {
+            if (i == 0 || i == 5)
+                continue;
+            sb.Append(splitString[i]);
+        }
+        sb.Append(splitString[0]); 
+    }
+} 
   
+
 public class Mains
 {
     private IString implement;
